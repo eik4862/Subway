@@ -1,5 +1,5 @@
 # Subway
-R library for time series analysis and visualization.
+R library for population estimation using SARIMA with eash visualization.
 
 Authors: Sanghyun Park, Daun Jeong, and Sehun Kim
 
