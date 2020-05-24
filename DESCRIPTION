@@ -1,0 +1,24 @@
+Package: Subway
+Type: Package
+Title: Time Series Analysis & Visualization
+Version: 3.0.0
+Author: Sanghyun Park, Daun Jeong, and Sehun Kim
+Maintainer: Sanghyun Park <lkd1962@naver.com>
+Description: Performs basic time series analsysis including model selection through grid search. Also, suports beautiful visualization of test results, raw traces, and etc.
+License: Creative Commons BY 2.0 KR
+Encoding: euc-kr
+LazyData: true
+RoxygenNote: 7.1.0
+Suggests: 
+    testthat
+Depends: 
+    R (>= 2.10),
+    ggplot2,
+    lubridate,
+    forecast,
+    dplyr,
+    tseries,
+    changepoint,
+    parallel,
+    doSNOW,
+    ggpubr
