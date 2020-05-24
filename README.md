@@ -11,9 +11,9 @@ Authors: Sanghyun Park, Daun Jeong, and Sehun Kim
 
 * Awesome time series visualization functions.
 
-!()[./Forecasting.png]
+!(./Forecasting.png)[./Forecasting.png]
 
-!()[./Trend.png]
+!(./Trend.png)[./Trend.png]
 
 ## Install
 1. Fork this repo and clone it to your local machine.
@@ -24,11 +24,11 @@ git clone https://github.com/eik4862/Subway.git
 
 2. Open R studio (requires R version >= 2.10) and click install at packages panel. Click dropdown menu to select **Package Archive File (.tgz; .tar.gz)**.
 
-!()[./step1.png]
+!(./step1.png)[./step1.png]
 
 3. From the pop-up file select window, select `Subway_3.0.0.tar.gz` and click install.
 
-!()[./step2.png]
+!(./step2.png)[./step2.png]
 
 4. Enjoy!
 
