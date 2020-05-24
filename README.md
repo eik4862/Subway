@@ -32,5 +32,11 @@ git clone https://github.com/eik4862/Subway.git
 
 4. Enjoy!
 
+## Environment
+Currently, it fully supports *nix(Linux, Mac OS). Windows OS environment is now on testing.
+
+## Maintainer
+Bug report through mail(`lkd1962@naver.com`) or github issues.
+
 ## License
 Creative Commons BY 2.0 KR
