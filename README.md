@@ -7,7 +7,7 @@ Authors: Sanghyun Park, Daun Jeong, and Sehun Kim
 
 * Powerful model selection procedure with SARIMA(Seasonal AutoRegressive Integrated Moving Average: 계절 자기회귀누적이동평균). Optimized by parallel computing and CPU load balancing heuristics.
 
-* One-cue simple test and forecasting procedures.
+* One-cue simple test and foercasting procedures.
 
 * Awesome time series visualization functions.
 
