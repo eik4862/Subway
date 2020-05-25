@@ -1,5 +1,5 @@
-d# Subway
-R library for floating population prediction using SARIMA with eash visualization.
+# Subway
+R library for floating population prediction using SARIMA with easy visualization.
 
 Authors: Sanghyun Park, Daun Jeong, and Sehun Kim
 
